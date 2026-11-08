@@ -1,0 +1,22 @@
+{
+  "wheel_id": 859,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-107",
+  "project": "adelaide-kitchen-renovations-common-mistakes-892fb0507f72e63dfa",
+  "parent_t1_ref": "adelaidekitchenreno-153",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "adelaide kitchen renovations common mistakes",
+  "intended_url": "http://adelaide-kitchen-renovations-common-mistakes-892fb0507f72e63dfa.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "1217d1f130d902bd",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/adelaide-kitchen-renovations-58395536baff7f77ff1a245b96b75af4e9/",
+      "anchor": "adelaide kitchen renovations",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
